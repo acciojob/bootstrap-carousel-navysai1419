@@ -1,1 +1,43 @@
 /* Do not add any css, this is a bootstrap only assignment  */
+/* Custom CSS for the Bootstrap Carousel */
+
+/* Style the Carousel container */
+#myCarousel {
+    background-color: #f2f2f2; /* Set the background color */
+    padding: 20px;
+}
+
+/* Style the arrow icons and add custom colors if desired */
+.carousel-control.left, .carousel-control.right {
+    background-color: #333; /* Background color for arrow icons */
+    color: #fff; /* Text color for arrow icons */
+    font-size: 24px; /* Adjust the font size */
+    padding: 10px; /* Adjust the padding for arrow icons */
+}
+
+/* Style the individual slides and add custom styles if needed */
+.carousel-inner .item {
+    text-align: center; /* Center align slide content */
+    padding: 20px;
+}
+
+/* Add styles for each specific slide class */
+.first-slide {
+    background-color: #ffcc00; /* Custom background color for the first slide */
+}
+
+.second-slide {
+    background-color: #ff9900; /* Custom background color for the second slide */
+}
+
+.third-slide {
+    background-color: #ff6600; /* Custom background color for the third slide */
+}
+
+.fourth-slide {
+    background-color: #ff3300; /* Custom background color for the fourth slide */
+}
+
+.fifth-slide {
+    background-color: #ff0000; /* Custom background color for the fifth slide */
+}
