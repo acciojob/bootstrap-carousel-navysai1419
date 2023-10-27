@@ -5,6 +5,10 @@
 #myCarousel {
     background-color: #f2f2f2; /* Set the background color */
     padding: 20px;
+	force: true;
+	height:150px;
+	width: 0px
+	
 }
 
 /* Style the arrow icons and add custom colors if desired */
