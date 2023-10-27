@@ -5,9 +5,7 @@
 #myCarousel {
     background-color: #f2f2f2; /* Set the background color */
     padding: 20px;
-	force: true;
-	height:150px;
-	width: 0px
+	
 	
 }
 
@@ -18,7 +16,7 @@
     font-size: 24px; /* Adjust the font size */
     padding: 10px; /* Adjust the padding for arrow icons */
     height: 150px; /* Set the height */
-    width: 20px;/* Adjust the padding for arrow icons */
+    width: 0px;/* Adjust the padding for arrow icons */
 }
 
 /* Style the individual slides and add custom styles if needed */
