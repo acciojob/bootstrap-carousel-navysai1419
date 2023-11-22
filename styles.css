@@ -15,8 +15,9 @@
     color: #fff; /* Text color for arrow icons */
     font-size: 24px; /* Adjust the font size */
     padding: 10px; /* Adjust the padding for arrow icons */
-    height: 150px; /* Set the height */
-    width: 0px;/* Adjust the padding for arrow icons */
+/*     height: 150px; /* Set the height */ 
+/*     width: 0px;/* Adjust the padding for arrow icons */ 
+	force: true
 }
 
 /* Style the individual slides and add custom styles if needed */
