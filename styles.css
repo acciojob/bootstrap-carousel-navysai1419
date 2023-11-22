@@ -15,8 +15,8 @@
     color: #fff; /* Text color for arrow icons */
     font-size: 24px; /* Adjust the font size */
     padding: 10px; /* Adjust the padding for arrow icons */
-/*     height: 150px; /* Set the height */ 
-/*     width: 0px;/* Adjust the padding for arrow icons */ 
+    height: 300px; 
+    width: 700px;
 	force: true;
 }
 
@@ -27,22 +27,5 @@
 }
 
 /* Add styles for each specific slide class */
-.first-slide {
-    background-color: #ffcc00; /* Custom background color for the first slide */
-}
 
-.second-slide {
-    background-color: #ff9900; /* Custom background color for the second slide */
-}
 
-.third-slide {
-    background-color: #ff6600; /* Custom background color for the third slide */
-}
-
-.fourth-slide {
-    background-color: #ff3300; /* Custom background color for the fourth slide */
-}
-
-.fifth-slide {
-    background-color: #ff0000; /* Custom background color for the fifth slide */
-}
